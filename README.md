@@ -1,0 +1,4 @@
+                                                  Walmart Sales Prediction 
+
+
+Sales forecasting is an important factor in the retail sector, which affects decisions about staff, marketing, and inventory. Major firms like Walmart use the ability to predict sales to cost-effectively make their business while also customer-oriented. This wide dataset from Walmart includes weekly sales data along with information on holidays, unusual temperatures, and other local weather-related anomalies across all US retail locations, as well as gasoline costs.For forecasting future values from historical data, time series analysis is very important.the adoption of machine learning (ML) and deep learning approaches for sales prediction has always led to a significant advancement in the field of forecasting.Our task is to compare the difference between deep learning model LSTM, statistical model ARIMA and Prophet in forecasting Walmart sales data.
